@@ -1,0 +1,2 @@
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\Debug\Win_Com_interface.exe
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\Debug\Win_Com_interface.pdb

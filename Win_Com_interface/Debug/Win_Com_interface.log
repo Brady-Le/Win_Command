@@ -1,0 +1,17 @@
+﻿  DisplayFile.c
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(7,26): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(7,34): warning C4133: “函数”: 从“LPSTR”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(8,26): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(8,33): warning C4133: “函数”: 从“char [3]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(9,50): warning C4133: “函数”: 从“CHAR [260]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(24,25): warning C4047: “return”:“CHAR”与“CHAR [260]”的间接级别不同
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(44,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(44,11): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(44,11): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(44,11): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(44,11): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(76,46): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayFile.c(77,40): warning C4133: “函数”: 从“CHAR [260]”到“EnumFileDrectory *”的类型不兼容
+  main.c
+  正在生成代码...
+  Win_Com_interface.vcxproj -> C:\Users\Kevin.L\source\repos\Win_Com_Interface\Debug\Win_Com_interface.exe

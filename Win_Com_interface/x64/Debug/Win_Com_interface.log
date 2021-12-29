@@ -1,0 +1,24 @@
+﻿  DisplayAllFileCatalogue.c
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(9,25): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(9,33): warning C4133: “函数”: 从“LPSTR”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(11,25): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(11,32): warning C4133: “函数”: 从“char [3]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(12,48): warning C4133: “函数”: 从“CHAR [260]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(18,25): warning C4047: “return”:“CHAR”与“CHAR [260]”的间接级别不同
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(23,25): warning C4047: “return”:“CHAR”与“CHAR [260]”的间接级别不同
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(45,25): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(45,33): warning C4133: “函数”: 从“LPSTR”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(47,25): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(47,32): warning C4133: “函数”: 从“char [3]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(48,48): warning C4133: “函数”: 从“CHAR [260]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(67,28): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(67,38): warning C4133: “函数”: 从“char [6]”到“LPCWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayAllFileCatalogue.c(94,46): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+  DisplayCatalogue.c
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayCatalogue.c(7,74): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayCatalogue.c(14,74): warning C4133: “函数”: 从“CHAR [260]”到“LPWSTR”的类型不兼容
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayCatalogue.c(17,9): warning C4013: “printf”未定义；假设外部返回 int
+C:\Users\Kevin.L\source\repos\Win_Com_Interface\DisplayCatalogue.c(18,11): warning C4098: “DisplayCatalogue”:“void”函数返回值
+  正在生成代码...
+  Win_Com_interface.vcxproj -> C:\Users\Kevin.L\source\repos\Win_Com_Interface\x64\Debug\Win_Com_interface.exe
